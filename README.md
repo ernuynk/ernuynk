@@ -1,28 +1,11 @@
-### Hi there 👋
+### Hello everyone! 👋 
+I'm an Industrial IoT Engineer and have experience in Industrial Automation Softwares and IoT solutions about 5 years 👨‍💻. 
+I have been graduated MSc Data Science in 2021 and also I'm working in Data Science field since 2020.
 
-<!--
-**ernuynk/ernuynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Python, L2L (MES), APIs and some industrial solutions.
+- 💬 Read out my blogs on [Medium](https://ernu.medium.com)
 
-- 🔭 I’m currently working on XXX
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-sadsanfdsdaf,is
-dgf
-sdgs
-ag
-sa
-df
-sa
-fsa
-f
-sa
-fd
--->
+### 📫 Reach me at 
+<a href="https://twitter.com/ernumm" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/erenuyanik" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
