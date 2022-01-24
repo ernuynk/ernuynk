@@ -1,4 +1,5 @@
-### Hello everyone! 👋 
+### Hello everyone! I'm Eren. 👋 
+
 I'm an Industrial IoT Engineer and have experience in Industrial Automation Softwares and IoT solutions about 5 years 👨‍💻. 
 I have been graduated MSc Data Science in 2021 and also I'm working in Data Science field since 2020.
 
