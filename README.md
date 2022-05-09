@@ -5,7 +5,7 @@ I'm an Industrial IoT Engineer and have experience in Industrial Automation Soft
 I have been graduated MSc Data Science in 2021 and also I'm working in Data Science field since 2020.
 
 
-- 🔭 I’m currently working on Python, L2L (MES), APIs and some industrial solutions.
+- 🔭 I’m currently working on L2L (MES-APIs), Data Science applications (in Manufacturing) and some industrial solutions with Python.
 - 💬 Read out my blogs on [Medium](https://ernu.medium.com)
 
 ### 📫 Reach me at 
